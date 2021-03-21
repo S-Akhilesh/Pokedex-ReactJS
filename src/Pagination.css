@@ -1,0 +1,15 @@
+.pagination {
+  width: fit-content;
+  padding: 20px;
+  height: 70px;
+}
+
+.pagination button {
+  background: #e7e7e7;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  margin-left: 30px;
+  cursor: pointer;
+}
